@@ -1,0 +1,18 @@
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<resources>
+
+    <string name="app_name">WhatsApp Menu</string>
+
+    <string name="content_description" />
+    <string name="menu_document">Document</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_audio">Audio</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_contact">Contact</string>
+
+    <string name="text_agenda_header_name">Nombre</string>
+    <string name="text_agenda_header_dni">DNI</string>
+    <string name="text_agenda_header_phone">Telefono</string>
+    <string name="text_agenda_header_contact_date">F. contacto</string>
+</resources>
