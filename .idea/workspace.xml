@@ -55,9 +55,14 @@
       <file leaf-file-name="activity_main4.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="62" column="34" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="226">
+              <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+              <folding>
+                <element signature="e#1557#1590#0" expanded="true" />
+                <element signature="e#1921#1953#0" expanded="true" />
+                <element signature="e#2234#2268#0" expanded="true" />
+                <element signature="e#2599#2640#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2">
@@ -2871,9 +2876,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="226">
+          <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+          <folding>
+            <element signature="e#1557#1590#0" expanded="true" />
+            <element signature="e#1921#1953#0" expanded="true" />
+            <element signature="e#2234#2268#0" expanded="true" />
+            <element signature="e#2599#2640#0" expanded="true" />
+          </folding>
         </state>
       </provider>
       <provider editor-type-id="android-designer2">

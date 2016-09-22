@@ -19,6 +19,59 @@
             app:popupTheme="@style/ActionBarPopupThemOverlay"
             app:theme="@style/ActionBarThemOverlay" />
 
+        <LinearLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:background="@color/table_header_background"
+            android:orientation="horizontal"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp">
+
+            <TextView
+                style="@style/TableHeaderItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:text="@string/text_agenda_header_name" />
+
+            <TextView
+                style="@style/TableHeaderItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:text="@string/text_agenda_header_dni" />
+
+            <TextView
+                style="@style/TableHeaderItem"
+                android:layout_width="64dp"
+                android:layout_height="match_parent"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:text="@string/text_agenda_header_phone" />
+
+            <TextView
+                style="@style/TableHeaderItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:text="@string/text_agenda_header_contact_date" />
+
+            <TextView
+                style="@style/TableHeaderItem"
+                android:layout_width="36dp"
+                android:layout_height="match_parent"
+                android:ellipsize="end"
+                android:gravity="center" />
+
+        </LinearLayout>
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
